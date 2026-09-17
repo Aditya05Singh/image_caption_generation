@@ -22,7 +22,7 @@ This project showcases an advanced Image Caption Generator designed using AI and
 
 ## Code
 
-[Code](https://colab.research.google.com/drive/1RwCo4HpgiSMOMGPlKFGeR6e5rzj07MJ9?usp=sharing)
+[Code](https://drive.google.com/drive/folders/1LNXIiD_qrctB4qBwOrSPHqLTbi3w4HrP?usp=sharing)
 
 
 ## Screenshots
