@@ -7,7 +7,7 @@ This project showcases an advanced Image Caption Generator designed using AI and
 
 ## Authors
 
-- [@Shresthi Singh](https://github.com/shresthisingh-exe)
+- [@Aditya Singh](https://github.com/Aditya05Singh)
 
 
 ## Features
@@ -46,11 +46,11 @@ startseq two dogs playing with red toy endseq
 
 ## Feedback
 
-If you have any feedback, please reach out to us at 2003shresthisingh@gmail.com
+If you have any feedback, please reach out to us at aditya122004singh@gmail.com
 
 
 ## 🔗 Links
-[![linkedin](http://www.linkedin.com/in/shresthi-singh-8b33a7243](https://www.linkedin.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityasingh0512)
 
 
 
